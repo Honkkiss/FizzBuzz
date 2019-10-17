@@ -1,7 +1,0 @@
-D:\Koodausprojektit\C#\FizzBuzz\bin\Debug\FizzBuzz.exe.config
-D:\Koodausprojektit\C#\FizzBuzz\bin\Debug\FizzBuzz.exe
-D:\Koodausprojektit\C#\FizzBuzz\bin\Debug\FizzBuzz.pdb
-D:\Koodausprojektit\C#\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
-D:\Koodausprojektit\C#\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
-D:\Koodausprojektit\C#\FizzBuzz\obj\Debug\FizzBuzz.exe
-D:\Koodausprojektit\C#\FizzBuzz\obj\Debug\FizzBuzz.pdb
